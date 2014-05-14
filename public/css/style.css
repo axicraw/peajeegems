@@ -1,0 +1,36 @@
+
+body{
+	padding-top: 50px;
+	background: url(../imgs/retina_dust.png);
+}
+.docContainer{
+	padding-top:20px;
+}
+.select-group{
+	border-radius:5px;
+	width:300px;
+}
+.select-group-item{
+	
+}
+.select-group-item:active{
+	background: blue;
+}
+.footer{
+	width:100%;
+	margin-top:200px;
+	position:realtive; bottom:0px;
+}
+.copy{
+	width:920px;
+	margin:0 auto;
+}
+.copy p{
+	text-align: center; font-size: 12px;
+}
+ul{margin:0px; padding:0px;}
+ul li{list-style: none; }
+
+ol li form, ol li a {float:left;} 
+.border-bottom{border-bottom:#555 thin solid;};
+
